@@ -1,0 +1,19 @@
+{
+  "name": "@naomi-rc/simple-math",
+  "version": "1.0.0",
+  "description": "An npm package to perform simple math operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "smath"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naomi-rc/2020-04-17-personal-npm-package.git"
+  },
+  "author": "naomi-rc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naomi-rc/2020-04-17-personal-npm-package/issues"
+  },
+  "homepage": "https://github.com/naomi-rc/2020-04-17-personal-npm-package#readme"
+}
